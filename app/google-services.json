@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919489572638",
+    "firebase_url": "https://logintest-b05f7.firebaseio.com",
+    "project_id": "logintest-b05f7",
+    "storage_bucket": "logintest-b05f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919489572638:android:cc7cc95cdbbdb6a9",
+        "android_client_info": {
+          "package_name": "com.example.logintestfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919489572638-v02un4djabumb574u3ono7cklbtcjkdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNuANeRAzGlYq9yra8-rsSvC5yBAGxVvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919489572638-v02un4djabumb574u3ono7cklbtcjkdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
